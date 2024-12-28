@@ -11,8 +11,8 @@ This project demonstrates a simple GitHub Actions workflow. The project is based
 
 1. **Clone the Repository**
 ```bash
-    git clone https://github.com/william-alacompins/gh-deployment-workflow.git
-    cd gh-deployment-workflow
+    git clone https://github.com/w-menezes/devops-projects.git
+    cd devops-projects\github-pages-deployment
 ```
 2. **Configure GitHub Pages**
 - In the repository's settings, navigate to **Pages**
