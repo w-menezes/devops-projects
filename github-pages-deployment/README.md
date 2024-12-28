@@ -30,3 +30,6 @@ This project demonstrates a simple GitHub Actions workflow. The project is based
     git commit -m "Added a test line to webpage"
     git push origin main
 ```
+
+5. **Validate Webpage Updated**
+- go to your [Pages site](https://w-menezes.github.io/devops-projects/github-pages-deployment/)
