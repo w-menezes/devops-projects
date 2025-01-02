@@ -4,7 +4,7 @@
 
 ### Beginner
 1. [GitHub Pages Deployment](https://roadmap.sh/projects/github-actions-deployment-workflow) :white_check_mark:
-2. [Server Performance Stats](https://roadmap.sh/projects/server-stats)
+2. [Server Performance Stats](https://roadmap.sh/projects/server-stats) :white_check_mark:
 3. [Basic Dockerfile](https://roadmap.sh/projects/basic-dockerfile)
 4. [Static Site Server](https://roadmap.sh/projects/static-site-server) + [EC2 Instance](https://roadmap.sh/projects/ec2-instance)
 

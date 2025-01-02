@@ -1,6 +1,6 @@
 # GitHub Actions Project
 
-This project demonstrates a simple GitHub Actions workflow. The project is based on [roadmap.sh project](https://roadmap.sh/projects/github-actions-deployment-workflow).
+This project demonstrates a simple GitHub Actions workflow. The workflow only fires when changes are made to files in the "github-pages-deployment" folder.
 
 ## Prerequisites
 
